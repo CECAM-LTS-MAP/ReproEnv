@@ -6,7 +6,7 @@ All-inclusive **CECAM-LTS-MAP  Virtual Machine** (size: **5.7G**) that contains 
 > [Activated-Events-CECAM.ova](https://bioad.ijs.si/download/Activated-Events-CECAM.ova)  
 > [Mirror URL](http://pwtk.ijs.si/download/Activated-Events-CECAM.ova)
 
-The sha256 checksum of the FILENAME file:  
+The sha256 checksum of the Activated-Events-CECAM.ova file:  
 c4ccd19883538025b08ff43cf21466791cc6a7eac2c73d3c6e4a17be6c244666
 
 Note that sometimes the google chrome browser doesn't download `*.ova` files correctly, if you encounter any issues you can try an alternative browser, or `wget`. 
