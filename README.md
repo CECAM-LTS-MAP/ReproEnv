@@ -3,8 +3,8 @@ Dockerfiles and other environment management tools for the CECAM workshop
 
 # Virtual Machine Installation for Hands-On Sessions
 All-inclusive **CECAM-LTS-MAP  Virtual Machine** (size: **5.7G**) that contains the software and material required for the [Long time multi-scale simulations of activated events: from theory to practice](https://www.cecam.org/workshop-details/long-time-multi-scale-simulations-of-activated-events-from-theory-to-practice-1317) is available at:
-> [URL1](URL1)  
-> [URL2](URL2)
+> [URL1](https://bioad.ijs.si/download/Activated-Events-CECAM.ova)  
+> [URL2](http://pwtk.ijs.si/download/Activated-Events-CECAM.ova)
 
 The sha256 checksum of the FILENAME file:  
 c4ccd19883538025b08ff43cf21466791cc6a7eac2c73d3c6e4a17be6c244666
