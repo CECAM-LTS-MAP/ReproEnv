@@ -8,6 +8,7 @@ All-inclusive **CECAM-LTS-MAP  Virtual Machine** (size: **5.7G**) that contains 
 
 The sha256 checksum of the FILENAME file:  
 c4ccd19883538025b08ff43cf21466791cc6a7eac2c73d3c6e4a17be6c244666
+Note that sometimes the google chrome browser doesn't download `*.ova` files correctly, if you encounter any issues you can try an alternative browser, or `wget`. 
 
 CECAM-LTS-MAP Virtual Machine image is the same irrespective of which host operating system is used (Linux, Mac OS, or Windows). The virtual machine depends on the [VirtualBox](https://www.virtualbox.org/) virtualization software (version 7.0) and is based on [Debian OS](https://www.debian.org/).
 
