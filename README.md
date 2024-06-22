@@ -75,13 +75,13 @@ If _CECAM-LTS-MAP Virtual Machine_ opens in a small window, it is possible to so
 
 On high DPI screens, text and icons in the VM may appear too tiny. This issue can be solved as illustrated by the below snapshot via the _View_ menu of the VM main window.
 
-![fig6](figs/fig6.jgg)
+![fig6](figs/fig6.jpg)
 
 ### Ugly layout upon resizing the VM window size
 
 If you get an ugly layout of VM's desktop upon resizing the VM main window, use the View->Adjust Window Size menu on the "VirtualBox VM" as shown below:
 
-![fig7](figs/fig7.jgg)
+![fig7](figs/fig7.png)
 
 ### Other issues
 
