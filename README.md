@@ -3,8 +3,8 @@ Dockerfiles and other environment management tools for the CECAM workshop
 
 # Virtual Machine Installation for Hands-On Sessions
 All-inclusive **CECAM-LTS-MAP  Virtual Machine** (size: **5.7G**) that contains the software and material required for the [Long time multi-scale simulations of activated events: from theory to practice](https://www.cecam.org/workshop-details/long-time-multi-scale-simulations-of-activated-events-from-theory-to-practice-1317) is available at:
-> [URL1](https://bioad.ijs.si/download/Activated-Events-CECAM.ova)  
-> [URL2](http://pwtk.ijs.si/download/Activated-Events-CECAM.ova)
+> [Activated-Events-CECAM.ova](https://bioad.ijs.si/download/Activated-Events-CECAM.ova)  
+> [Mirror URL](http://pwtk.ijs.si/download/Activated-Events-CECAM.ova)
 
 The sha256 checksum of the FILENAME file:  
 c4ccd19883538025b08ff43cf21466791cc6a7eac2c73d3c6e4a17be6c244666
@@ -22,7 +22,7 @@ A computer (laptop or desktop) must support **virtualization** and have about **
 To install **CECAM-LTS-MAP Virtual Machine** follow these steps:
 
 1.  Download and install **[VirtualBox](https://www.virtualbox.org/)** (click a large blue "Download VirtualBox 7.0" button therein).
-2.  After VirtualBox is installed and QE-MaX-2024 Virtual Machine downloaded from the [above link](URL1), import the machine by either double clicking it or from the **File→Import Appliance** menu of VirtualBox.
+2.  After VirtualBox is installed and QE-MaX-2024 Virtual Machine downloaded from the [above link](https://bioad.ijs.si/download/Activated-Events-CECAM.ova), import the machine by either double clicking it or from the **File→Import Appliance** menu of VirtualBox.
 
 ## How to login
 
