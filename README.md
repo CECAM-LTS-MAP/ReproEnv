@@ -5,6 +5,7 @@ Dockerfiles and other environment management tools for the CECAM workshop
 All-inclusive **CECAM-LTS-MAP  Virtual Machine** (size: **3.3G**) that contains the software and material required for the [Long time multi-scale simulations of activated events: from theory to practice](https://www.cecam.org/workshop-details/long-time-multi-scale-simulations-of-activated-events-from-theory-to-practice-1317) is available at:
 > [URL1](URL1)  
 > [URL2](URL2)
+
 The sha256 checksum of the FILENAME file:  
 c4ccd19883538025b08ff43cf21466791cc6a7eac2c73d3c6e4a17be6c244666
 
@@ -32,21 +33,21 @@ Once **CECAM-LTS-MAP Virtual Machine** is imported into VirtualBox, click the gr
 
 By default, a system is set to US keyboard. You can change this or add new keyboards by going to (upper left corner of the Desktop environment): **System→Preferences→Hardware→Keyboard**
 
-[fig1](figs/fig1.png)
+![fig1](figs/fig1.png)
 
 The following window appears (new keyboard layouts can be added by clicking the "+Add" button):
 
-[fig2](figs/fig2.png)
+![fig2](figs/fig2.png)
 
 The keyboards can then be switched on the right part of the top-panel:
 
-[fig3](figs/fig3.png)
+![fig3](figs/fig3.png)
 
 ## Changing the number of CPUs
 
 If your computer has several CPUs then you can increase the number of CPUs that _CECAM-LTS-MAP Virtual Machine_ will use as to make the calculations run faster. This can be done as follows: close the CECAM-LTS-MAP virtual-machine and in the _VirtualBox Manager_ select the _CECAM-LTS-MAP Virtual Machine_ but do not start it. Then press the _Settings_ button and in the window that appears select _System_ tab and increase (or decrease) the number of CPUs accordingly.
 
-[fig4](figs/fig4.png)
+![fig4](figs/fig4.png)
 
 ## Troubleshooting
 
@@ -56,7 +57,7 @@ On some laptops **virtualization is disabled** by default. If you encounter any 
 
 If you get a black screen, you may need to change the video memory in the Settings. Close the _CECAM-LTS-MAP Virtual Machine_ and then in the _VirtualBox Manager_ select the _CECAM-LTS-MAP Virtual Machine_ but do not start it. Then press the _Settings_ button and in the window that appears select Display tab and change (increase) the Video Memory.
 
-[fig5](figs/fig5.png)
+![fig5](figs/fig5.png)
 
 ### Issue with VirtualBox on Windows 10
 
@@ -74,7 +75,7 @@ If _CECAM-LTS-MAP Virtual Machine_ opens in a small window, it is possible to so
 
 On high DPI screens, text and icons in the VM may appear too tiny. This issue can be solved as illustrated by the below snapshot via the _View_ menu of the VM main window.
 
-[fig6](figs/fig2.jgg)
+![fig6](figs/fig6.jgg)
 
 
 ### Other issues
