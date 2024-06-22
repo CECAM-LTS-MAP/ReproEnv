@@ -2,7 +2,7 @@
 Dockerfiles and other environment management tools for the CECAM workshop
 
 # Virtual Machine Installation for Hands-On Sessions
-All-inclusive **CECAM-LTS-MAP  Virtual Machine** (size: **3.3G**) that contains the software and material required for the [Long time multi-scale simulations of activated events: from theory to practice](https://www.cecam.org/workshop-details/long-time-multi-scale-simulations-of-activated-events-from-theory-to-practice-1317) is available at:
+All-inclusive **CECAM-LTS-MAP  Virtual Machine** (size: **5.7G**) that contains the software and material required for the [Long time multi-scale simulations of activated events: from theory to practice](https://www.cecam.org/workshop-details/long-time-multi-scale-simulations-of-activated-events-from-theory-to-practice-1317) is available at:
 > [URL1](URL1)  
 > [URL2](URL2)
 
@@ -77,6 +77,11 @@ On high DPI screens, text and icons in the VM may appear too tiny. This issue ca
 
 ![fig6](figs/fig6.jgg)
 
+### Ugly layout upon resizing the VM window size
+
+If you get an ugly layout of VM's desktop upon resizing the VM main window, use the View->Adjust Window Size menu on the "VirtualBox VM" as shown below:
+
+![fig7](figs/fig7.jgg)
 
 ### Other issues
 
